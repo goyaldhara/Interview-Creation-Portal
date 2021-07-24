@@ -7,8 +7,6 @@ Simple app where admins can create/schedule interviews by selecting participants
 
 ## Steps to Setup Backend
 1. Move to 'InterviewPortal_Backend' Folder
-<br>
-
 2. Execute command `npm install`
 3. Install MySQL (if not installed on system ) [Installation](https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/)
 4. Setting up the Database :
@@ -40,8 +38,6 @@ Simple app where admins can create/schedule interviews by selecting participants
 
 ## Steps to Setup Frontend:
 1. Move to 'InterviewPortal_Frontend' Folder
-<br>
-
 2. Execute `npm install`
 3. Ensure that Backend is listening on PORT (e.g. 8001 present in .env file of Backend )
 4. Change the file name **.env.example to .env**
